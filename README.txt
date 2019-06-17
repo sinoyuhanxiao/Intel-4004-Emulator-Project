@@ -1,7 +1,7 @@
 4004pem (2019)
 
 Authors:
-    Trevor Harness, Akash Charitar
+    Trevor Harness, Akash Charitar, Erik Yu
 
 The 4004 Pipelined EMulator is an emulator of the Intel 4004 CPU with an optional two-stage pipeline.
 It currently supports 19 of the 46 instructions available to the 4004. With memory access,
